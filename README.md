@@ -30,7 +30,7 @@
     src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
     width="30"
   />
-  with experience at LTIMindtree, delivering high-quality products.
+
 - In my free time, I work on personal projects, which I share to foster mutual growth. Feel free to explore my repositories you might find something useful.
 - 🔭 I am honing my Web Development and DSA problem solving skills.
 - 🌱 I am currently learning Java/Spring.
