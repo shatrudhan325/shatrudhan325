@@ -182,7 +182,7 @@
 <h3 align="left">Connect with:</h3>
 <div align="left">
 <a
-href="https://www.facebook.com/profile.php?id=100009039946893"
+href=""
 target="_blank"
 rel="noopener noreferrer"
 >
