@@ -62,6 +62,27 @@
 
 <div>
    <img
+    src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"
+    title="Flutter"
+    alt="Flutter"
+    width="40"
+    height="40"
+  />&nbsp;
+   <img
+    src="https://github.com/devicons/devicon/blob/master/icons/dart/dart.svg"
+    title="Dart"
+    alt="Dart"
+    width="40"
+    height="40"
+  />&nbsp;
+   <img
+    src="https://github.com/devicons/devicon/blob/master/icons/Getx/getx.svg"
+    title="Getx"
+    alt="Getx"
+    width="40"
+    height="40"
+  />&nbsp;
+   <img
     src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
     title="JavaScript"
     alt="JavaScript"
@@ -75,13 +96,7 @@
     width="40"
     height="40"
   /> &nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"
-    title="Flutter"
-    alt="Flutter"
-    width="40"
-    height="40"
-  />&nbsp;
+ 
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
     title="Redux"
@@ -89,13 +104,7 @@
     width="40"
     height="40"
   />&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/dart/dart.svg"
-    title="Dart"
-    alt="Dart"
-    width="40"
-    height="40"
-  />&nbsp;
+ 
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"
     title="CSS3"
