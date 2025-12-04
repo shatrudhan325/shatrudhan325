@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shatrudhan Kumar Sharma</h1>
-<h3 align="center">Frontend developer who aims to write quality code</h3>
+<h3 align="center">Flutter developer who aims to write quality code</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shatrudhan-sharma/">
@@ -25,7 +25,7 @@
 
 #### 💻 &nbsp; About Me :
 
-- 👨‍💻 I am a frontend developer specializing in web development.
+- 👨‍💻 I am a flutter developer specializing in App development.
   <img
     src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
     width="30"
